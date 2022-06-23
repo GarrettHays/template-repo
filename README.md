@@ -15,11 +15,12 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Copy the repository URL named "Planetary-Age"_
+* _Clone the copied repository to your desktop using the "git clone" command in a shell program_
+* _Open the cloned directory -PROJECT NAME-_
+* _Navigate to the root directory of the project in your terminal_
+* _Run "npm install" in your terminal_
+* _Running "npm run test" allows you to test the business logic_
 
 ## Known Bugs
 
