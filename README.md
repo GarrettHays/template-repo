@@ -24,9 +24,11 @@
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* No Known Bugs
+  - If you identify any issues or just have questions, ideas or concerns, please feel free to contact [Garrett Hays](mailto:GarrettLHays@gmail.com) to discuss.
 
 ## License
 
-## Contact Information
+MIT
+
+Copyright (c) _06/23/22_ _Garrett Hays_ 
