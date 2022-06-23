@@ -32,4 +32,3 @@
 MIT
 
 Copyright (c) _06/23/22_ _Garrett Hays_ 
-## Contact Information
