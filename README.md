@@ -15,7 +15,7 @@
 
 ## Setup/Installation Requirements
 
-* _Copy the repository URL named "Planetary-Age"_
+* _Copy the repository URL named  -PROJECT NAME-_
 * _Clone the copied repository to your desktop using the "git clone" command in a shell program_
 * _Open the cloned directory -PROJECT NAME-_
 * _Navigate to the root directory of the project in your terminal_
@@ -32,3 +32,4 @@
 MIT
 
 Copyright (c) _06/23/22_ _Garrett Hays_ 
+## Contact Information
